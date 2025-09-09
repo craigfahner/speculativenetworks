@@ -8,7 +8,7 @@ permalink: /
 
 - Instructor: [Craig Fahner](https://www.craigfahner.com)
 - email: [cef9489@nyu.edu](mailto:cef9489@nyu.edu)
-- Website: [https://craigfahner.github.io/CC2025](https://craigfahner.github.io/speculativenetworks)
+- Website: [https://craigfahner.github.io/speculativenetworks](https://craigfahner.github.io/speculativenetworks)
 - Office Hours: ([by appointment](https://calendar.app.google/zq4uTXKKZYkktD137)), 370 Jay Street Room 332 or via Zoom at [this link](https://nyu.zoom.us/j/9757774992)
 
 ## Syllabus
