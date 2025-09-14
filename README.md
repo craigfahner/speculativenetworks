@@ -13,7 +13,7 @@ permalink: /
 
 ## Syllabus
 
-The course syllabus can be found at [this link](https://www.dropbox.com/scl/fi/ovu9fqwssy34zkrjnx079/Spec-Nets-Independent-Study-Syllabus.docx?rlkey=bkb3v0ew6hj97coc8pakb3oz6&dl=0)
+The course syllabus can be found at [this link](https://www.dropbox.com/scl/fi/mwwu35dch8qup93w97s5v/Spec-Nets-Independent-Study-Syllabus-F25.pdf?rlkey=kohlcivtppo0u4kamvart3gpr&dl=0)
 
 ## Course schedule:
 
