@@ -11,6 +11,16 @@ permalink: /
 - Website: [https://craigfahner.github.io/speculativenetworks](https://craigfahner.github.io/speculativenetworks)
 - Office Hours: ([by appointment](https://calendar.app.google/zq4uTXKKZYkktD137)), 370 Jay Street Room 332 or via Zoom at [this link](https://nyu.zoom.us/j/9757774992)
 
+## For next week:
+
+Read the following readings:
+
+- [Davis, Jenny L. 2020. “Affordances in Practice.” In How Artifacts Afford: The Power and Politics of Everyday Things, 105–22.](https://direct-mit-edu.proxy.library.nyu.edu/books/monograph/chapter-pdf/2253422/9780262358880_c000500.pdf)
+- [Light, Ben, Jean Burgess, and Stefanie Duguay. 2018. “The Walkthrough Method: An Approach to the Study of Apps.” New Media & Society 20 (3): 881 – 900.](https://journals-sagepub-com.proxy.library.nyu.edu/doi/pdf/10.1177/1461444816675438)
+- [Kujala, Sari, and Martti Mäntylä. 2000. “Studying Users for Developing Usable and Useful Products.” In Proceedings of 1st Nordic Conference on Computer-Human Interaction, 1–11.](https://www.researchgate.net/profile/Sari-Kujala/publication/228790500_Studying_Users_for_Developing_Usable/links/00b49514ab5805b21c000000/Studying-Users-for-Developing-Usable.pdf)
+
+Please note you do not have to prepare double notations for these readings. These will prepare you to use the Walkthrough method and the User Study method in the workshop next week. As discussed in our meetings, please come to class with a particular app/interface that you want to analyze using these methods.
+
 ## Syllabus
 
 The course syllabus can be found at [this link](https://www.dropbox.com/scl/fi/mwwu35dch8qup93w97s5v/Spec-Nets-Independent-Study-Syllabus-F25.pdf?rlkey=kohlcivtppo0u4kamvart3gpr&dl=0)
