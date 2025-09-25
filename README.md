@@ -13,13 +13,11 @@ permalink: /
 
 ## For next week:
 
-Read the following readings:
+Read the following readings and prepare double notations:
 
-- [Davis, Jenny L. 2020. “Affordances in Practice.” In How Artifacts Afford: The Power and Politics of Everyday Things, 105–22.](https://direct-mit-edu.proxy.library.nyu.edu/books/monograph/chapter-pdf/2253422/9780262358880_c000500.pdf)
-- [Light, Ben, Jean Burgess, and Stefanie Duguay. 2018. “The Walkthrough Method: An Approach to the Study of Apps.” New Media & Society 20 (3): 881 – 900.](https://journals-sagepub-com.proxy.library.nyu.edu/doi/pdf/10.1177/1461444816675438)
-- [Kujala, Sari, and Martti Mäntylä. 2000. “Studying Users for Developing Usable and Useful Products.” In Proceedings of 1st Nordic Conference on Computer-Human Interaction, 1–11.](https://www.researchgate.net/profile/Sari-Kujala/publication/228790500_Studying_Users_for_Developing_Usable/links/00b49514ab5805b21c000000/Studying-Users-for-Developing-Usable.pdf)
-
-Please note you do not have to prepare double notations for these readings. These will prepare you to use the Walkthrough method and the User Study method in the workshop next week. As discussed in our meetings, please come to class with a particular app/interface that you want to analyze using these methods.
+- [Bernhaupt, Regina, et al. 2020. “Reimagining the Now: A Pedagogical Tool for Thinking Through Design.](https://speculativeedu.wordpress.com/wp-content/uploads/2020/07/reimagining-the-now-a-pedagogical-tool-for-thinking-through-design-dis-2020-final-gillian-russell-craig-badke-garnet-hertz.pdf)
+- [Dunne, Anthony, and Fiona Raby. 2013. “Beyond Radical Design?” In Speculative Everything: Design, Fiction, and Social Dreaming, 1–10.](https://commons.gc.cuny.edu/?get_group_doc=2813/Speculative_Everything_Design%2C_Fiction%2C_and_Social..._----_%281._Beyond_Radical_Design_%29.pdf)
+- [Lovink, Geert. 2022. “Reconfiguring the Technosocial.” In Stuck on the Platform: Reclaiming the Internet, 199–217.](https://www.dropbox.com/scl/fi/txv2hq9hoj6ykq0i2jcur/Reconfiguring-the-Technosocial.pdf?rlkey=7vlha3ofze1evj6id5dgiwbhl&dl=0)
 
 ## Syllabus
 
@@ -51,3 +49,10 @@ Week 15|December 15-19|Documentation due|
 ## Workshops and resources
 
 - [Workshop 1](./workshop1/)
+
+
+## Past Readings
+
+- [Davis, Jenny L. 2020. “Affordances in Practice.” In How Artifacts Afford: The Power and Politics of Everyday Things, 105–22.](https://direct-mit-edu.proxy.library.nyu.edu/books/monograph/chapter-pdf/2253422/9780262358880_c000500.pdf)
+- [Light, Ben, Jean Burgess, and Stefanie Duguay. 2018. “The Walkthrough Method: An Approach to the Study of Apps.” New Media & Society 20 (3): 881 – 900.](https://journals-sagepub-com.proxy.library.nyu.edu/doi/pdf/10.1177/1461444816675438)
+- [Kujala, Sari, and Martti Mäntylä. 2000. “Studying Users for Developing Usable and Useful Products.” In Proceedings of 1st Nordic Conference on Computer-Human Interaction, 1–11.](https://www.researchgate.net/profile/Sari-Kujala/publication/228790500_Studying_Users_for_Developing_Usable/links/00b49514ab5805b21c000000/Studying-Users-for-Developing-Usable.pdf)
