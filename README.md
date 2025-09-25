@@ -50,4 +50,4 @@ Week 15|December 15-19|Documentation due|
 
 ## Workshops and resources
 
-- Resources for workshops will be listed here.
+- [Workshop 1](./workshop1/)
