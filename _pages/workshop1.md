@@ -34,19 +34,19 @@ If you are the one conducting the study, be sure to take lots of notes. If you a
 While the user study documents a single user’s path through an app, the walkthrough method is meant to develop a comprehensive “map” of the app’s design. When conducting the walkthrough, take steps to look at each affordance or design feature in detail, thinking about how it relates to user needs, the company’s business interests, and the governance of user behavior. Analyze the sign-up process, the app’s ordinary use, and the process of cancelling an account or leaving the app. Document your findings using the following format:
 
 *Registration / Sign-up process*
+
 | Design feature observed | How does the feature relate to user needs? | How does the feature relate to the company’s business interests | How does the feature govern user behavior? |
-|---|---|---|---|
-|   |   |   |   |
+
 
 *Everyday Use*
+
 | Design feature observed | How does the feature relate to user needs? | How does the feature relate to the company’s business interests | How does the feature govern user behavior? |
-|---|---|---|---|
-|   |   |   |   |
+
         
 *Suspension, closure and leaving*
+
 | Design feature observed | How does the feature relate to user needs? | How does the feature relate to the company’s business interests | How does the feature govern user behavior? |
-|---|---|---|---|
-|   |   |   |   |
+
 
 You may supplement this documentation with a diagram if you wish.
 
