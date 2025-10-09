@@ -42,7 +42,7 @@ Week 13|Thursday December 4 2-4:50pm|Workshop 5: Designing networked interaction
 Week 14|December 8-12|Creative project progress discussion meetings|Individual meeting - [book](https://calendar.app.google/zq4uTXKKZYkktD137)
 Week 15|December 15-19|Documentation due| 
 
-## Double Notation Format
+## Double Notation Format 
 
 - A template for double notation assignments can be found [here](https://docs.google.com/document/d/146Ucp4niUy-10Of4D3a9-IS5sJ5tO0vui1e-A1DcBZk/edit?usp=sharing)
 
