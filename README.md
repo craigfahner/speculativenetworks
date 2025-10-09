@@ -49,6 +49,7 @@ Week 15|December 15-19|Documentation due|
 ## Workshops and resources
 
 - [Workshop 1](./workshop1/)
+- [Workshop 2 and Speculative Design Brief](https://www.dropbox.com/scl/fi/ghc6d6nbntmabwbsx334j/Spec-Design-Brief-Assignment.pdf?rlkey=vzalrmywfsfnohk7kqogn7kwk&dl=0)
 
 
 ## Past Readings
