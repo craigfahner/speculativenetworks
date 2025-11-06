@@ -49,6 +49,12 @@ You may choose three different approaches for the content of your Web 1.0 websit
 - You have just finished your Speculative Design project for this class. Imagine if this technology existed in the Web 1.0 era. How would it be different? How might it be communicated to an audience not already familiar with social media and mobile computing? Create a “retro-futurist” rendering of your speculative design idea.
 - As a third option, create an experimental, “net-art” style website that uses hyperlinks to create a non-linear narrative or to showcase absurd, experimental content. References to 1990s “net-art” will be necessary in your writeup if you choose this option, so be sure to research some examples of net-art as part of your process.
 
+For Next Week (Nov 13) prepare the following:
+
+- 2-3 example websites from the archives I have shared, which you would like to use as inspiration for your website
+- Images that you would like to use on your website, including animated GIFs and other elements typical of 90s web design
+- Text you would like to include on your website
+- A general structure for your website, diagramming the links on the site
 
 ### Resources:
 
