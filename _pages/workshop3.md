@@ -18,6 +18,8 @@ GitHub provides the infrastructure for this course. It is how I will share assig
 2. Download and install [GitHub Desktop](https://desktop.github.com/). ([video](https://www.youtube.com/watch?v=dN5A0kDdCwk)).
 3. Log into your new GitHub account from GitHub desktop.
 
+- [Workshop Template Repository](https://github.com/craigfahner/website-template)
+
 **VSCode**
 
 VSCode is the code editor we will be using in this class. It is essentially a fancy text editor that is streamlined for editing code. While you can technically edit code in any basic text editor, VSCode is nice because it can auto-format your code, it color-codes different elements of your code, and you can preview what you're working on in the editor.
